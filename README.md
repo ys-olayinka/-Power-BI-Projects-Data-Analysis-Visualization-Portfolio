@@ -1,7 +1,8 @@
 # 📊 Power BI Projects – Data Analysis & Visualization Portfolio
 
 ## 🧭 Executive Summary
-
+![Dashboard Preview](Maven.png)
+![Dashboard Preview](Diagram.png)
 This repository features a collection of Power BI projects that showcase my ability to analyze, visualize, and communicate data-driven insights. Each report demonstrates how raw data can be transformed into meaningful dashboards that support business decisions across various domains, including sales, marketing, and operations.
 
 ---
